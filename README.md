@@ -196,4 +196,15 @@ the Reader role.
 
     <img width="1417" alt="step 42" src="https://github.com/Xalmonte/Building-with-Amazon-Aurora-Databases/assets/169603464/3028d198-b5dc-41a9-b80f-8e7df9c86842">
 
-48.
+48. The expect output shows the larger instance should roughly have the same time elapsed, since the larger number of concurrent parallel queries is supported by the larger instance allowed both queries to use the feature. (step not shown)
+
+49. Now we head back to the AWS Console, and into CloudWatch
+
+    
+<img width="726" alt="step 43" src="https://github.com/Xalmonte/Building-with-Amazon-Aurora-Databases/assets/169603464/0539fad4-c5ed-4f05-83f1-0b8242db202f">
+
+50. Select Dashboards on the left side and click on the name of the ontimeflights-Dashboard Dashboard
+
+   <img width="726" alt="step 44" src="https://github.com/Xalmonte/Building-with-Amazon-Aurora-Databases/assets/169603464/0f9d50ed-e1b4-46ba-b4b8-8ab574b9fb23">
+
+51. 
