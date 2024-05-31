@@ -207,4 +207,8 @@ the Reader role.
 
    <img width="726" alt="step 44" src="https://github.com/Xalmonte/Building-with-Amazon-Aurora-Databases/assets/169603464/0f9d50ed-e1b4-46ba-b4b8-8ab574b9fb23">
 
-51. 
+51. Now it's time to hover over the latest peaks on the widget RDS: Instance PQ Stats (Step not shown) and RDS: Large Instance PQ Stats
+
+    <img width="726" alt="step 45" src="https://github.com/Xalmonte/Building-with-Amazon-Aurora-Databases/assets/169603464/3a7e991e-d649-49e9-8d69-ad8f34ca0247">
+
+52. That concludes the lab!
